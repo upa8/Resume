@@ -38,6 +38,26 @@ EnegeryLab Internship
 
 
 
+Technical skills 
+
+
+Git , Raspberrypi , OpenCV , 
+
+Languages :
+Java , C , Pyton , PHP , HTML , CSS , JavaScript , LaTex , 
+Sql 
+Frameworks : 
+Django , Bootstrap , NodeJS , MeteorJS 
+
+Android , Phonegap , 
+
+Mysql , Postgres , Oracle 
+
+
+
+
+
+
 Refference link :
 
 http://blog.arungupta.me/rest-vs-websocket-comparison-benchmarks/
