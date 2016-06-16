@@ -1,0 +1,43 @@
+Autonomous Robot car :
+
+1) Implemented multithreading in python to perform asynchrounous 
+task in background like controlling car , obstacle detection , image processing. 
+2) Increase the number of message transfer between raspberry pi and computer by 10 times by choosing websocket over http which futher reduces number of tcp connections  
+3) Created android application to control car movements 
+
+
+Device Tracking System :
+Created a web application along with android app to track any android device at real 
+time  using background services and GCM to instruct devices . Reduced battery and data usage by 37% by using 
+efficient algorithm for background services.
+
+
+Thane Traffic app :
+SOS application especially build for women safety in thane . Increased productivity 
+and usefulness of application by implementing push notification system to send alert using GCM.
+
+
+Cupidic.com :
+
+Designed and developed "E-Greeting card" web application to send greetings to friends by customizing predefined templates. Created templates like 3D rotating cube in 3.js with 6 images around each side of cube and one heart shaped animation with flowers.
+
+
+
+
+
+
+Twheelo Internship 
+
+
+Polaris Internship 
+
+
+EnegeryLab Internship 
+
+
+
+
+
+Refference link :
+
+http://blog.arungupta.me/rest-vs-websocket-comparison-benchmarks/
