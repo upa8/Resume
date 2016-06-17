@@ -1,14 +1,15 @@
 Autonomous Robot car :
 
-1) Implemented multithreading in python to perform asynchrounous 
-task in background like controlling car , obstacle detection , image processing. 
-2) Increase the number of message transfer between raspberry pi and computer by 10 times by choosing websocket over http which futher reduces number of tcp connections  
-3) Created android application to control car movements 
+Implemented multithreading in python to perform asynchrounous 
+task like controlling car , obstacle detection , image processing etc throught simultaneously in background. 
+Increased the number of message transfer between raspberry pi and computer by 10 times by implementing websocket over http which futher reduces number of tcp connections .
+Created android application to control car movements .
+Working on and learning machine learning and artificial intellence to build complete driveless car
 
 
 Device Tracking System :
 Created a web application along with android app to track any android device at real 
-time  using background services and GCM to instruct devices . Reduced battery and data usage by 37% by using 
+time  using background services and GCM . Reduced battery and data usage by 37% by using 
 efficient algorithm for background services.
 
 
@@ -19,7 +20,7 @@ and usefulness of application by implementing push notification system to send a
 
 Cupidic.com :
 
-Designed and developed "E-Greeting card" web application to send greetings to friends by customizing predefined templates. Created templates like 3D rotating cube in 3.js with 6 images around each side of cube and one heart shaped animation with flowers.
+Designed and developed "E-Greeting card" web application to send greetings to friends by customizing predefined templates.Created templates like 3D rotating cube in 3.js with 6 images around each side of cube and one heart shaped animation with flowers.
 
 
 
@@ -27,12 +28,23 @@ Designed and developed "E-Greeting card" web application to send greetings to fr
 
 
 Twheelo Internship 
-
+Building a web and android application for renting two wheelers . 
+Implemented retrofit library to reduce http connection time by 100times than in-built apache http connection in android. 
+Working on and learning  angularJs , NodeJs, expressJs , Postgres , Aws , Oauth  etc 
 
 Polaris Internship 
+Build an analytic tool for Polaris event  to manage money collection , user and event information , track expenses , 
+generate reports on online event feedback forms.  
+Wrote API's to register user through android application.
+Wrote efficient scripts to send sms , emails to multiple user with delivery report to resend messages. 
 
-
+ 
 EnegeryLab Internship 
+Leaned android and web development , build one android application "Thane Traffic App" for thane city 
+which was launched by Mr. Amitabh Bacchan on 27 feb 2015. 
+Build backend web application to manage questions , user answers and admin rating on users answers 
+for "whatsyourexcuse.co".
+
 
 
 
