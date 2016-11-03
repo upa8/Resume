@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.18)  17 JUN 2016 13:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.18)  3 NOV 2016 09:09
 entering extended mode
 **./PratikUpacharya.tex
 (PratikUpacharya.tex
@@ -269,23 +269,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 39.
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--91
+Underfull \hbox (badness 10000) in paragraph at lines 72--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--91
+Underfull \hbox (badness 10000) in paragraph at lines 72--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--91
+Underfull \hbox (badness 10000) in paragraph at lines 72--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--103
-
+Overfull \hbox (20.10912pt too wide) in paragraph at lines 100--106
+\OT1/cmr/bx/n/10 Tools/Frameworks :  \OT1/cmr/m/n/10 Nodejs, AngularJs,MongoDB,
+Mocha-Chai, Elas-tic Search, An-droid, Git, Mysql,Postgres,
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
@@ -310,9 +311,9 @@ ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on PratikUpacharya.pdf (1 page, 81368 bytes).
+Output written on PratikUpacharya.pdf (1 page, 82075 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
