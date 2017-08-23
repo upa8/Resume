@@ -1,0 +1,170 @@
+
+\documentclass[letterpaper]{twentysecondcv} % a4paper for A4
+
+%----------------------------------------------------------------------------------------
+%	 PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+% If you don't need one or more of the below, just remove the content leaving the command, e.g. \cvnumberphone{}
+
+\profilepic{} % Profile picture
+
+\cvname{Pratik Upacharya} % Your name
+\cvjobtitle{Your Problem Solver} % Job title/career
+
+\cvdate{\href{https://pratikupacharya.com}{pratikupacharya.com}} 
+\cvaddress{\href{https://github.com/upa8}{github.com/upa8}} % Short address/location, use \newline if more than 1 line is required
+\cvnumberphone{+91 7588948588} % Phone number
+\cvsite{\href{https://linkedin.com/in/pratikupacharya}{linkedin.com/pratikupacharya}} % Personal website
+\cvmail{pratikupacharya@gmail.com} % Email address
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	 ABOUT ME
+%----------------------------------------------------------------------------------------
+
+\aboutme{
+
+An Innovative, enthusiast, full stack engineer with excellent problem-solving skills and experience in building enterprise grade applications.
+
+} % To have no About Me section, just remove all the text and leave \aboutme{}
+
+%----------------------------------------------------------------------------------------
+%	 SKILLS
+%----------------------------------------------------------------------------------------
+
+% Skill bar section, each skill must have a value between 0 an 6 (float)
+\skills{}
+
+%------------------------------------------------
+
+% Skill text section, each skill must have a value between 0 an 6
+\jsStackSkills{
+	{Javascript},{Nodejs}, {MongoDB}, {Redis},
+    {Angularjs}, {AWS}, {Elasticsearch}, {Git}, 
+    {Android}, {MySql}, {Postgres}, {Raspberrypi},
+    {Java}, {Solr}, {React-Native}, {Python}, {Protractorjs}, {Mocha-Chai}, {Jasmine}, {HTML}, {CSS}, 
+    {Bootstrap}, {ES6}, {Typescript}, {Algorithms}, 
+    {Data Structures}, {Design Patterns}, {Object oriented programming}, {Webpack}, {Gulp}, {Grunt},{Jira}, {Docker}, {Jenkins}, {Confluence}, {REST}, {D3}
+    {Chartjs}, {Highchartjs}, {Leafletjs}, {Linux}, 
+    {Large scale distributed systems}, {Django}, {PHP}, 
+    {Chrome Extensions}, {Command line utilities}
+}
+
+\databaseSkills{
+	{MongoDB}, {Redis}, {Cassandra}, {Mysql}
+}
+
+\languageskills{
+	{Javascript}, {Java}, {Python}, {PHP}
+}
+
+\otherSkills{
+	{MongoDB}, {Redis}, {Cassandra}, {Mysql}
+}
+
+
+\CSCourses{
+	{Algorithms}, {Data Structure}, {Object Oriented Programming}, {Machine Learning}, {Distributed System}
+}
+
+%----------------------------------------------------------------------------------------
+
+\makeprofile % Print the sidebar
+
+%----------------------------------------------------------------------------------------
+%	 INTERESTS
+%----------------------------------------------------------------------------------------
+
+\section{Selected Projects}
+
+\subsection{Productivity Assistant}
+
+Designed and developed an AI product for Xoriant Hackathon in 2016 which works like Amazon Echo Dot for web. Implemented multiple Google API in Nodejs like speech to text, text to speech, distance etc.
+
+\subsection{Autonomous Robot Car}
+
+Implemented multi-threading in python to perform asynchronous task like
+controlling car, obstacle detection, image processing etc. Increased the number of message transfer between
+raspberry pi and computer by 10 times by implementing websocket over http which further reduces number
+of tcp connections. Created android application to control car.
+
+
+\subsection{Device Tracking System}
+
+Created a web and android application to track android device at real time
+using background services and GCM. Reduced battery and data usage by 37 percent by using efficient
+algorithm for background services with timer. Implemented this concept in ”Trabus” android application
+to find and track buses in city at real time.
+
+
+\subsection{E-Greeting Cards Platform}
+
+Designed and developed ”E-Greeting card” web application
+to send greetings to friends by customizing predefined templates. Created templates like 3D
+rotating cube in D3.js with 6 images around each side of cube and one heart shaped animation with
+flowers.
+
+\subsection{Thane Traffic App}
+
+ SOS application especially build for women safety in thane. Increased productivity
+and usefulness of application by implementing push notification system to send alert using GCM.
+
+%----------------------------------------------------------------------------------------
+%	 EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Experience}
+
+\begin{twenty} % Environment for a list with descriptions
+	
+    \twentyexpitem{}{Software Engineer, Xoriant}{Aug 2016 - Current }{  Developing a web service API in a mission critical, security sensitive environment using Nodejs. Responsible
+for writing api, automating deployment by shell scripts, gulp automation, documentation of source code,
+writing unit tests. Continuously learning and improving skills. Fulfilling clients requirements using Elastic
+search, MongoDB, AngularJS and several javascript libraries.
+  }
+	\twentyexpitem{}{Co-Founder | CTO , Thweelo, Nagpur}{Dec 2015 - Aug 2016}{
+    Build a web and android application for renting two wheeler. Implemented retrofit library to reduce http
+connection time by 100 times than in-built Apache http connection in android.
+    }
+	\twentyexpitem{}{Full Stack Engineer, EnergyLabs, Nagpur }{June 2014 - Aug 2015}{
+    Learned android and web development, build ”Thane Traffic App” for thane city which was launched by
+Mr. Amitabh bachchan on 27 feb 2015. Build back-end web application to manage questions, user answers
+and admin rating on users answers for ”whatsyourexcuse.co”.
+    }
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+
+%----------------------------------------------------------------------------------------
+%	 EDUCATION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{2012-2016}{B.Tech {\normalfont Computer Science And Engineering }}{6.43 CGPA}{\emph { \href{http://rknec.edu}{Ramdeobaba College Of Engineering, Nagpur, India} }}
+	
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+%	 AWARDS
+%----------------------------------------------------------------------------------------
+
+\section{Achievements/Awards}
+
+\begin{itemize}
+  \item Won Xoriant Hackathon in Dec 2016.
+  \item Won Gold Medal in Hackerrank Week of code 17.
+  \item Taught Android Application Development to 200 students in RCOEM (FEB 2016).
+  \item Won Overnight coding competition at COMPUFEST.
+  
+  
+\end{itemize}
+
+
+
+\end{document} 
